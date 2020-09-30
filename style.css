@@ -171,7 +171,7 @@ menu li a i {
   width: 100%;
 }
 .joinFbGroupTextAndButton div {
-  font-family: cursive;
+  font-family: "Short Stack", cursive;
   text-transform: uppercase;
   font-size: 33px;
   color: rgb(73, 105, 160);
@@ -239,7 +239,7 @@ menu li a i {
   width: 100%;
 }
 .visitYoutubeChannelTextAndButton div {
-  font-family: cursive;
+  font-family: "Short Stack", cursive;
   text-transform: uppercase;
   font-size: 33px;
   color: rgb(255 105 123);
@@ -322,7 +322,7 @@ menu li a i {
   width: 152px;
   margin: auto;
   text-transform: uppercase;
-  font-family: cursive;
+  font-family: "Short Stack", cursive;
 }
 .statsWrapper {
   display: flex;
@@ -415,7 +415,7 @@ menu li a i {
   outline: none;
   border: 0px solid rgba(148, 143, 143, 0.47);
   border-radius: 17px;
-  font-family: cursive;
+  font-family: "Short Stack", cursive;
   cursor: pointer;
   transition: all 0.5s ease 0s;
   font-weight: 700;
@@ -428,7 +428,7 @@ menu li a i {
   text-align: center;
   color: rgb(255 255 255 / 78%);
   font-size: 38px;
-  font-family: cursive;
+  font-family: "Short Stack", cursive;
 }
 .pdfIllustrateImage {
   width: 683px;
@@ -524,7 +524,7 @@ menu li a i {
   margin-bottom: 7px;
 }
 .teamWrapper h1 {
-  font-family: cursive;
+  font-family: "Short Stack", cursive;
   text-transform: uppercase;
   text-align: center;
   margin: 78px 0px;
@@ -558,7 +558,7 @@ menu li a i {
   width: 100%;
 }
 .websiteTextAndButton {
-  font-family: cursive;
+  font-family: "Short Stack", cursive;
   text-transform: uppercase;
   font-size: 24px;
   color: #84c6f6;
@@ -638,7 +638,7 @@ footer .logoText {
   display: flex;
   flex-direction: column;
   color: white;
-  font-family: cursive;
+  font-family: "Short Stack", cursive;
 }
 .contactinfo li {
   list-style: none;
