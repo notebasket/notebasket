@@ -1,0 +1,159 @@
+.container {
+  width: 717px;
+}
+.menuBar {
+  flex-direction: column;
+}
+.logoDiv {
+  padding: 10px 0px;
+  margin-bottom: 6px;
+}
+#landingView {
+  margin-top: -105px;
+  height: 579px;
+}
+.landingLogo {
+  width: 211px;
+}
+.landingText {
+  font-size: 62px;
+  padding-top: 11px;
+}
+.singleStat {
+  width: 189px;
+  height: 192px;
+  transform: scale(0.9);
+}
+.singleStat {
+  transform: scale(0.96);
+}
+
+.statIcon i {
+  font-size: 37px;
+}
+.statIcon {
+  margin-top: 23px;
+  margin-bottom: 12px;
+}
+.statText h2 span {
+  font-size: 25px;
+}
+.statText h2 {
+  font-size: 21px;
+}
+.joinFbGroupTextAndButton {
+  width: 283px;
+}
+.fbLogo img {
+  width: 127px;
+}
+.joinFbGroupTextAndButton div {
+  font-size: 26px;
+}
+.illustratorPictureFbDiv {
+  margin-top: 23px;
+}
+.joinFbGroupTextAndButton button {
+  padding: 6px;
+  width: 96px;
+}
+.youtubeLogo img {
+  width: 109px;
+}
+.visitYoutubeChannelTextAndButton div {
+  font-size: 22px;
+  width: 319px;
+}
+.youtubeLogoAndVisitButton {
+  padding-right: 0px;
+}
+.visitYoutubeChannelTextAndButton button {
+  padding: 8px;
+  width: 87px;
+  margin-left: -7px;
+}
+.journeyToNoteTextAndButton img {
+  width: 117px;
+  padding: 6px 0px;
+}
+.journeyToNoteTextAndButton h2 {
+  font-size: 26px;
+}
+.journeyToNoteTextAndButton {
+  width: 347px;
+}
+.journeyToNoteTextAndButton button {
+  padding: 6px;
+  width: 115px;
+  margin-top: 16px;
+}
+.quoteWrapper h1 {
+  font-size: 36px;
+  color: rgb(255 255 255 / 88%);
+}
+.quoteWrapper {
+  margin: 37px 0px;
+}
+.journeyToPdfTextAndButton h2 {
+  font-size: 22px;
+  width: 226px;
+}
+.journeyToPdfTextAndButton {
+  width: 329px;
+  margin: 10px 0px 15px;
+}
+.journeyToPdfTextAndButton button {
+  width: 107px;
+  margin-top: 14px;
+}
+.journeyToPdfWrapper {
+  margin-top: 22px;
+}
+.teamWrapper h1 {
+  margin: 40px 0px;
+  font-size: 39px;
+}
+.teamMemberImage {
+  transform: scale(0.8);
+}
+.singleTeamMember:hover .teamMemberImage {
+  transform: scale(0.9);
+}
+.singleTeamMember h2 {
+  margin-top: -9px;
+  font-size: 19px;
+  margin-bottom: -20px;
+}
+.singleTeamMember h3 {
+  font-size: 17px;
+}
+.teamSecondRow {
+  width: 519px;
+}
+.websiteIllustrateImage {
+  width: 633px;
+}
+.websiteTextAndButton img {
+  width: 85px;
+}
+.websiteTextAndButton {
+  font-size: 15px;
+}
+.websiteTextAndButton button {
+  width: 138px;
+  padding: 4px 6px;
+  font-size: 14px;
+}
+.singleFooter p {
+  font-size: 0.8em;
+  width: 242px;
+}
+.contactinfo li {
+  font-size: 0.8em;
+}
+.singleFooter h2 {
+  margin-bottom: 31px;
+}
+.pageLinks ul li a {
+  font-size: 0.8em;
+}
